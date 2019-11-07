@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">MovieCatalogDean</string>
+    <string name="image">Image View for Poster</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="year">Year</string>
+    <string name="title_detail">Title</string>
+    <string name="year_detail">Year</string>
+    <string name="description_detail">Description</string>
+
+
+    <string-array name="movie_names">
+        <item>A Star is Born</item>
+        <item>Aquaman</item>
+        <item>Avenger Infinity</item>
+        <item>Birdbox</item>
+        <item>Bohemian</item>
+        <item>Bumble Bee</item>
+        <item>Creed</item>
+        <item>Deadpool</item>
+        <item>Dragon</item>
+        <item>Dragon Ball</item>
+    </string-array>
+
+    <string-array name="movie_descriptions">
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy</item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred</item>
+        <item>The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed</item>
+        <item>Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy\'s life</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested</item>
+        <item>A retelling of Dragon Ball\'s origin with a different take on the meeting of Goku, Bulma, and Kame-Sen\'nin. It also retells the Red Ribbon Army story; but this time they find Goku rather than Goku finding them</item>
+    </string-array>
+
+    <string-array name="movie_years">
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2016</item>
+        <item>2018</item>
+        <item>2018</item>
+    </string-array>
+
+
+    <string-array name="movie_image">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+    </string-array>
+
+
+</resources>
